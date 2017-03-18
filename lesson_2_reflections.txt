@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initialising a repository allows you to use version control in a directory. It creates a .git file within the directory.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a middle ground between the two. It allows you to create logical and finished commits.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Staging area can be used as an intermediary to create a logical commit.
