@@ -34,4 +34,4 @@ You can always revert back to the working version
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use git to have a strong foundation for learning Python and other languages.
+I want to use git to have a strong foundation for learning Python and other languages. 
