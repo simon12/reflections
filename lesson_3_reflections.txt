@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+So you can edit files from remote locations or work in a team.
